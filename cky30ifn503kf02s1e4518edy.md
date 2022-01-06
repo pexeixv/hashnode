@@ -2,9 +2,8 @@
 
 ## What is the mission of hi?
 
-Today, tech and financial institutions make money off you, not for you. We aim to change that. Financial services should be a global public good. We are using blockchain technology to make this happen.
-The not-for-profit financial services platform’s token has been launched on the Ethereum blockchain. hi is leveraging blockchain technology to build services that are community-powered. Members of hi are the key stakeholders of this ecosystem, and the business is committed to maximizing membership value — not profits. Our first product is a digital wallet that provides members with the most seamless payment experience via social messengers (initially Telegram and WhatsApp, next LINE, Facebook Messenger, and others).
-
+Today, tech and financial institutions make money off you, not for you. Hi aims to change that. Financial services should be a global public good. Hi uses blockchain technology to make this happen.
+The not-for-profit financial services platform’s token has been launched on the Ethereum blockchain. Hi is leveraging blockchain technology to build services that are community-powered. Members of hi are the key stakeholders of this ecosystem, and the business is committed to maximizing membership value — not profits. The first product is a digital wallet that provides members with the most seamless payment experience via social messengers (initially Telegram and WhatsApp, next LINE, Facebook Messenger, and others).
 
 ## Claim Daily Rewards
 
